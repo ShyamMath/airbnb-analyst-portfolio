@@ -1,0 +1,34 @@
+neighbourhood,n_listings,avg_reviews_per_month,avg_price,pct_with_reviews
+City of London,421,1.02,237.62,76.2
+Hillingdon,714,0.9,98.27,77.9
+Westminster,7659,0.86,258.73,75.3
+Camden,4678,0.85,170.5,79.0
+Kingston upon Thames,580,0.73,115.83,78.4
+Brent,2064,0.73,198.7,73.6
+Richmond upon Thames,1099,0.71,142.7,79.1
+Bexley,411,0.7,89.69,71.8
+Hounslow,1074,0.69,153.28,74.3
+Croydon,1066,0.69,82.56,76.2
+Bromley,593,0.68,102.81,74.2
+Southwark,3951,0.68,187.33,77.7
+Kensington and Chelsea,4532,0.68,257.55,75.4
+Lambeth,3706,0.68,120.49,79.0
+Sutton,286,0.67,84.67,70.3
+Enfield,616,0.66,93.03,75.8
+Tower Hamlets,5579,0.65,119.76,76.0
+Greenwich,1511,0.65,124.64,76.1
+Newham,1677,0.65,127.48,71.9
+Havering,327,0.65,100.61,71.6
+Ealing,1549,0.63,108.08,74.6
+Barking and Dagenham,432,0.62,92.0,70.1
+Hammersmith and Fulham,2968,0.62,161.55,76.7
+Haringey,1864,0.61,108.01,74.9
+Islington,3762,0.6,131.72,77.9
+Wandsworth,3442,0.59,142.89,76.5
+Redbridge,668,0.57,107.99,70.2
+Barnet,1609,0.55,148.51,68.1
+Lewisham,2011,0.55,88.98,76.8
+Waltham Forest,1321,0.55,93.27,74.8
+Harrow,443,0.54,95.86,69.5
+Merton,1104,0.53,126.27,74.5
+Hackney,5153,0.49,115.98,77.1
